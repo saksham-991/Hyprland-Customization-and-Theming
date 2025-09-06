@@ -46,6 +46,8 @@ Run the End-4 Hyprland setup script (this installs dotfiles, packages etc.):
 
 This script consist of lot of commands, You need to be attentive and enter password many times in this. In my opinion, press "n" at the beginning so it will require less clicks.
 
+![Image Alt](https://github.com/saksham-991/Hyprland-Customization-and-Theming/blob/2c3e38a30df166f7b244f755474860fc731dfc04/images/IMG_20250906_233653_488.jpg)
+
 Note:- `yay` commands throughout the script **can** fail, so just press R to retry once, if they fail again then just press "i" to ignore the command/error.
 
 
@@ -164,7 +166,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/keyitdev/sddm-astronaut-th
 
 Choose the desired SDDM theme when the script asks.
 
-![Image Alt]()
+![Image Alt](https://github.com/saksham-991/Hyprland-Customization-and-Theming/blob/2c3e38a30df166f7b244f755474860fc731dfc04/images/IMG_20250906_234101.jpg)
 
 
 ---
@@ -201,6 +203,7 @@ cd sekiro_grub_theme
 sudo ./install.sh
 ```
 
+![Images Alt](https://github.com/saksham-991/Hyprland-Customization-and-Theming/blob/2c3e38a30df166f7b244f755474860fc731dfc04/images/IMG_20250906_234015.jpg)
 
 There are many themes — browse https://github.com/semimqmo/ for alternatives.
 
@@ -211,9 +214,8 @@ There are many themes — browse https://github.com/semimqmo/ for alternatives.
 
 Check login screen, Grub menu, and everything and verify Hyprland desktop looks as expected.
 
-![Images Alt]()
 
-
+![Images Alt](https://github.com/saksham-991/Hyprland-Customization-and-Theming/blob/2c3e38a30df166f7b244f755474860fc731dfc04/images/IMG_20250906_233703_483.jpg)
 ---
 
 
