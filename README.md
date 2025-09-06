@@ -241,7 +241,7 @@ Result: Clean, modern desktop with consistent fonts, reduced jankiness, and poli
 # Showcase
 
 
-[![Result]()
+[![Result](https://jumpshare.com/s/7XXfxjdtdMOxd2UvwIzx)
 
 
 ## Troubleshooting & tips
