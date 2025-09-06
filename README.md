@@ -189,7 +189,7 @@ If you want a sidebar connected to an LLM (Gemini in this example), create an AP
 
 Keep API keys secret.
 
-![Images Alt](https://github.com/saksham-991/Hyprland-Customization-and-Theming/blob/5085f66c153fe63df05f141fc25fbbf3eb4168b8/images/IMG_20250906_220147_665.jpg)
+![Images Alt](https://jumpshare.com/s/7XXfxjdtdMOxd2UvwIzx)
 
 ---
 
@@ -240,7 +240,7 @@ Result: Clean, modern desktop with consistent fonts, reduced jankiness, and poli
 # Showcase
 
 
-https://github.com/saksham-991/Hyprland-Customization-and-Theming/blob/6f66066079c2e5690897e145a067cce2de61491b/images/VID_20250906_235501_882.mp4
+[![Result](https://github.com/saksham-991/Hyprland-Customization-and-Theming/blob/6f66066079c2e5690897e145a067cce2de61491b/images/VID_20250906_235501_882.mp4)
 
 
 ## Troubleshooting & tips
