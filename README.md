@@ -189,7 +189,7 @@ If you want a sidebar connected to an LLM (Gemini in this example), create an AP
 
 Keep API keys secret.
 
-![Images Alt](https://jumpshare.com/s/7XXfxjdtdMOxd2UvwIzx)
+![Images Alt](https://github.com/saksham-991/Hyprland-Customization-and-Theming/blob/04ecaa1620df6b4cf03d573373cf27866914dd97/images/IMG_20250906_220147_665.jpg)
 
 ---
 
