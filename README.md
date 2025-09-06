@@ -217,6 +217,7 @@ Check login screen, Grub menu, and everything and verify Hyprland desktop looks 
 
 
 ![Images Alt](https://github.com/saksham-991/Hyprland-Customization-and-Theming/blob/2c3e38a30df166f7b244f755474860fc731dfc04/images/IMG_20250906_233703_483.jpg)
+
 ---
 
 
@@ -240,7 +241,7 @@ Result: Clean, modern desktop with consistent fonts, reduced jankiness, and poli
 # Showcase
 
 
-[![Result](https://github.com/saksham-991/Hyprland-Customization-and-Theming/blob/6f66066079c2e5690897e145a067cce2de61491b/images/VID_20250906_235501_882.mp4)
+[![Result]()
 
 
 ## Troubleshooting & tips
