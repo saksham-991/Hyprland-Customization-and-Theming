@@ -236,6 +236,13 @@ Result: Clean, modern desktop with consistent fonts, reduced jankiness, and poli
 
 ---
 
+
+# Showcase
+
+
+https://github.com/saksham-991/Hyprland-Customization-and-Theming/blob/6f66066079c2e5690897e145a067cce2de61491b/images/VID_20250906_235501_882.mp4
+
+
 ## Troubleshooting & tips
 
 Setup script failed? Retry once. If still failing, run steps manually or check the script for missing dependencies.
