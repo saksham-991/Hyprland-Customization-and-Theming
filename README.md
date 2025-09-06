@@ -40,9 +40,10 @@ When running scripts from the web, inspect them first if you’re unsure.
 
 Run the End-4 Hyprland setup script (this installs dotfiles, packages etc.):
 
-`sudo pacman -Sy`
-`bash <(curl -s "https://end-4.github.io/dots-hyprland-wiki/setup.sh")`
-
+```
+sudo pacman -Sy
+bash <(curl -s "https://end-4.github.io/dots-hyprland-wiki/setup.sh")
+```
 
 This script consist of lot of commands, You need to be attentive and enter password many times in this. In my opinion, press "n" at the beginning so it will require less clicks.
 
