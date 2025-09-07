@@ -121,7 +121,7 @@ My preference: parallax off — it feels squishy and uses extra resources.
 ---
 
 
-## QT font DPI
+## QT font DPI  (A better way is written after this topic)
 
 Set a global QT font DPI for consistent UI scale (adjust value to taste):
 ```
@@ -135,8 +135,35 @@ Consider placing export QT_FONT_DPI=120 in your session startup script so it per
 > Might make some font look blurry, but not very noticeable, if you want complete sharp fonts then only increase Global UI scaling in `sudo nano ~/.config/hypr/hyprland/general.conf` In the monitors section, There would be "1" written explicitly, after resolution. Increase that value higher or lower according to your display.
 
 
-## Top bar & apps (file manager / browser)
 
+
+## Better way for scaling Hyprland and DPI/Fonts
+
+-Go to NWG-look (or GTK settings , its nwg look but just app name is GTK settings)
+
+-Then go to fonts and change font size to 1.00
+
+-Open a terminal and type :- 
+
+     `sudo nano ~/.config/hypr/hyprland/general.conf`
+
+-In montior section, (top line) Change scaling from "1" to 1.2 or higher if your display resolution is much more than 1920x1200.
+
+-Save the file and exit
+
+> This way you can escape blurring of fonts which was caused by QT commands I gave earlier.
+
+-Now go to `sudo nano ~`/.config/hypr/hyprland/execs.conf`
+
+-Change that QT command we added before, and set it's DPI to 100, (not 120 or 144 etc)
+
+-Save and exit.
+
+-The changes are in real time so you dont need to reboot again.
+     
+
+## Top bar & apps (file manager / browser)
+ 
 Install Nautilus and Chromium (or your preferred apps):
 
 `sudo pacman -S nautilus chromium`
