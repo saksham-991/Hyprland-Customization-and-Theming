@@ -145,7 +145,7 @@ Consider placing export QT_FONT_DPI=120 in your session startup script so it per
 
 -Open a terminal and type :- 
 
-     `sudo nano ~/.config/hypr/hyprland/general.conf`
+     ` sudo nano ~/.config/hypr/hyprland/general.conf `
 
 -In montior section, (top line) Change scaling from "1" to 1.2 or higher if your display resolution is much more than 1920x1200.
 
