@@ -95,7 +95,7 @@ Open the rules file:-
 
 ![Image Alt](https://github.com/saksham-991/Hyprland-Customization-and-Theming/blob/5085f66c153fe63df05f141fc25fbbf3eb4168b8/images/IMG_20250906_220139_489.jpg)
 
-In the 4th line, (including empty line), i.e `windowrulev2 = opacity 0.89 override 0.89 override, class :.*`
+Uncomment the 4th Line from above, i.e `windowrulev2 = opacity 0.89 override 0.89 override, class :.*`
 
 To fix Anything basic (but further)
 `sudo nano ~/.config/hypr/hyprland/general.conf`
