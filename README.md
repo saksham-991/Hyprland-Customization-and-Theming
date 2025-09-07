@@ -266,7 +266,4 @@ Sekiro GRUB themes: https://github.com/semimqmo/sekiro_grub_theme
 Wallpaper source (example): https://512pixels.net/downloads/macos-wallpapers-6k/10-11-6k.jpg
 
 
-> Please credit original authors if you base configs on their dotfiles. Don’t commit API keys or private info.
-
-
 > Next repo (next goal) --> **Performance tuning/Optimization**
