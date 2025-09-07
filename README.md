@@ -98,7 +98,9 @@ Open the rules file:-
 Uncomment the 4th Line from above, i.e `windowrulev2 = opacity 0.89 override 0.89 override, class :.*`
 
 To fix Anything basic (but further)
+
 `sudo nano ~/.config/hypr/hyprland/general.conf`
+
  Go to this file and change values of desired term as you want, For example, you want more rounded corners, find decoration column and increase value of rounded corner/boundaries.
 
 Same applies to Blur, visual noise, and animations.
@@ -145,7 +147,7 @@ Consider placing export QT_FONT_DPI=120 in your session startup script so it per
 
 -Open a terminal and type :- 
 
-     ` sudo nano ~/.config/hypr/hyprland/general.conf `
+   `sudo nano ~/.config/hypr/hyprland/general.conf`
 
 -In montior section, (top line) Change scaling from "1" to 1.2 or higher if your display resolution is much more than 1920x1200.
 
