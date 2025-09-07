@@ -132,7 +132,7 @@ qs -c ~/.config/quickshell/ii &
 
 Consider placing export QT_FONT_DPI=120 in your session startup script so it persists.
 
-> Might make some font look blurry, but not very noticeable, if you complete sharp fonts then only increase Global UI scaling in `sudo nano ~/.config/hypr/hyprland/general.conf` In the monitors section, There would be "1" written explicitly, after resolution. Increase that value higher or lower according to your display.
+> Might make some font look blurry, but not very noticeable, if you want complete sharp fonts then only increase Global UI scaling in `sudo nano ~/.config/hypr/hyprland/general.conf` In the monitors section, There would be "1" written explicitly, after resolution. Increase that value higher or lower according to your display.
 
 
 ## Top bar & apps (file manager / browser)
