@@ -154,7 +154,7 @@ Consider placing export QT_FONT_DPI=120 in your session startup script so it per
 
 -Save the file and exit
 
-> This way you can escape blurring of fonts which was caused by QT commands I gave earlier.
+> This way you can remove blurring of fonts which was caused by QT commands I gave earlier.
 
 -Now go to `sudo nano ~`/.config/hypr/hyprland/execs.conf`
 
