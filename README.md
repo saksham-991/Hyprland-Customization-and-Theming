@@ -231,7 +231,7 @@ Clone and install a GRUB theme (example: Sekiro GRUB theme):
 ```
 git clone https://github.com/semimqmo/sekiro_grub_theme
 cd sekiro_grub_theme
-sudo ./install.sh
+./install.sh
 ```
 
 ![Images Alt](https://github.com/saksham-991/Hyprland-Customization-and-Theming/blob/2c3e38a30df166f7b244f755474860fc731dfc04/images/IMG_20250906_234015.jpg)
