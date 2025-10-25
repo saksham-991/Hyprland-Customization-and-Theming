@@ -251,7 +251,7 @@ Check login screen, Grub menu, and everything and verify Hyprland desktop looks 
 ---
 
 
-# What I changed (example summary)
+# What I changed (summary)
 
 Disabled heavy parallax and noise for a cleaner desktop.
 
